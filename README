@@ -1,0 +1,10 @@
+README
+
+this proj can establish multi-server connection,and message can route through out the servers.
+
+more usage see test folder.
+
+
+usage
+
+npm install node-multi-server
